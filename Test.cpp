@@ -2,6 +2,7 @@
 
 int main(){
     std::cout << "Hello Universe!";
+    std::cout << "Im alive";
 
-    return 0;U
+    return 0;
 }
